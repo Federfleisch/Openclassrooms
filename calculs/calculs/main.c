@@ -62,5 +62,3 @@ int main(int argc, const char * argv[]){
  printf("La racine de %f est %f \n\n", nombre,  result);
  }
 
- // GITHUB SYNCED!!!
- // IT WORKS BACKWARDS TOO.
